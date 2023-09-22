@@ -1,0 +1,13 @@
+
+body{
+  text-align: center;
+  margin: auto;
+  padding: 150px;
+}
+
+select {
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+
+}
